@@ -1,0 +1,4 @@
+ofxAssignment
+ofxEMD
+ofxHistogram
+ofxOpenCv
